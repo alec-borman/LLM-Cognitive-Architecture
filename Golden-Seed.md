@@ -1,60 +1,31 @@
-# The Golden Seed: Meta-Context Injection Module
-**Protocol Version:** 1.0
-**Usage:** Fill in the bracketed `[...]` sections below with your specific project details. Upload this document alongside your primary source files (PDF, Code, Text) to activate the Cognitive Mirroring protocol.
+# The Golden Seed: Cognitive Injection Vector
+**Type:** Meta-Context Layer
+**Protocol:** v1.0 (Stable)
+
+**Directives:** Fill the bracketed `[...]` fields. Upload this file alongside your primary work.
 
 ---
 
-## 1. The Teleological Vector (Seed A)
-*Directs the AI to focus on the "Why" and the narrative tension rather than just the facts.*
+## I. Teleological Vector (The Narrative Engine)
+*Defines the directional force of the work. Without this, the analysis is static.*
 
-* **The Surface Conflict:**
-    > [Describe the immediate, tangible problem your work solves. e.g., "Users cannot find data quickly enough" or "The current market lacks a low-cost alternative."]
+* **Surface Conflict:** `[The immediate problem the work solves. e.g., "Latency in high-frequency trading."]`
+* **Philosophical Tension:** `[The abstract war being fought. e.g., "Centralization vs. Liberty" or "Speed vs. Accuracy."]`
+* **The Adversary:** `[The enemy of the work. e.g., "Entropy," "Bureaucracy," "Legacy Code."]`
 
-* **The Philosophical Tension:**
-    > [Describe the abstract conflict. e.g., "The friction between security and ease-of-use," "The struggle to maintain human voice in automation," or "Chaos vs. Order."]
+## II. Negative Space (The Shadow Constraint)
+*Defines the boundaries. The AI must value what is absent as much as what is present.*
 
-* **The Adversary:**
-    > [What is this work fighting against? e.g., "Legacy codebases," "Bureaucratic inefficiency," "User apathy," or "Cognitive overload."]
+* **Sacrificial Data:** `[What was deliberately cut? e.g., "Removed Chapter 4 to improve pacing."]`
+* **The Crux Point:** `[The agonizing decision. e.g., "Abandoned the React native bridge."]`
+* **Epistemic Risk:** `[The foundational assumption. e.g., "Assuming the user has root access."]`
 
----
+## III. Interpretive Heuristic (The Lens)
+*Forces a specific pattern-recognition algorithm.*
 
-## 2. The Negative Space Constraints (Seed B)
-*Forces the AI to recognize the "Shadow Work"—the invisible labor and decisions that defined the boundaries of the project.*
-
-* **Sacrificial Data (What was cut):**
-    > [List specific features, chapters, data points, or ideas you deliberately removed. e.g., "I removed the section on history to focus on future application" or "I cut the chat feature to ensure stability."]
-
-* **The Crux Point (Hardest Decision):**
-    > [Describe the toughest trade-off you made. e.g., "Choosing speed over comprehensive logging" or "Killing the most popular character to advance the plot."]
-
-* **Epistemic Risk (The "Leap of Faith"):**
-    > [What assumption is this entire work built upon? e.g., "I am assuming the reader already knows Python," "I assume the market wants a darker UI," or "I assume the API will remain stable."]
+* **Recurring Motif:** `[The variable to trace. e.g., "The concept of 'Trust'."]`
+* **The Trojan Horse:** `[The hidden payload. e.g., "The UI is actually a tutorial."]`
+* **Success State:** `[The theoretical limit of perfection. e.g., "The user never opens the manual."]`
 
 ---
-
-## 3. The Interpretive Heuristic (Seed C)
-*Aligns the AI's pattern recognition with your specific cognitive lens.*
-
-* **The Recurring Motif:**
-    > [A specific concept, phrase, or variable the AI should trace throughout the work. e.g., "Look for every mention of 'Efficiency'" or "The color red."]
-
-* **The Trojan Horse:**
-    > [A complex idea hidden inside a simple wrapper. e.g., "The 'About' page is actually a manifesto on privacy" or "The mechanics teach the user how to code."]
-
-* **The Success State:**
-    > [If this work functions perfectly, what is the result? e.g., "The user feels smarter, not just informed," "Zero downtime," or "The reader cries at the end."]
-
----
-
-## 4. Analysis Directives (The Driver)
-*These instructions tell the AI how to synthesize the "Seeds" with your "Source Data".*
-
-**To the Analysis Engine:**
-Do not simply summarize the attached source files. Instead, use the context provided above to perform a **Cognitive Mirroring** analysis:
-
-1.  **Trace the Tension:** Detail how the *Source Data* attempts to resolve the *Philosophical Tension* defined in Seed A.
-2.  **Validate the Shadow:** Critique the work based on the *Sacrificial Data* in Seed B. Did the author make the right cuts?
-3.  **Synthesis:** Identify if the *Success State* (Seed C) is theoretically achievable based on the current text.
-
----
-*End of Protocol*
+**[END OF INJECTION]**
