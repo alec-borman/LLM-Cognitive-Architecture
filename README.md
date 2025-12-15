@@ -26,6 +26,3 @@
 * **Recurring Motif:** `[The variable to trace. e.g., "The concept of 'Trust'."]`
 * **The Trojan Horse:** `[The hidden payload. e.g., "The UI is actually a tutorial."]`
 * **Success State:** `[The theoretical limit of perfection. e.g., "The user never opens the manual."]`
-
----
-**[END OF INJECTION]**
